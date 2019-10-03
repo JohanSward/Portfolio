@@ -21,7 +21,7 @@
 title: Your awesome title
 email: johan.sward86@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://johansward.github.io/Portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-slate
