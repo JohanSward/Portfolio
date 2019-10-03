@@ -1,3 +1,2 @@
 theme: jekyll-theme-slate
 markdown: kramdown
-baseurl: "/Sampling" # the subpath of your site, e.g. /blog
