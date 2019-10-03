@@ -8,18 +8,18 @@ Here you will find selected projects that are a result of my academic research a
 
 
 ### Selected projects from my Ph.D-studies.
-1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Sampling)
-2. Off-grid Fundamental Frequency Estimation.
-3. Online Estimation of Multiple Harmonic Signals.
-4. Designing Optimal Sampling Schemes.
+1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Symbolic_periods)
+2. [Off-grid Fundamental Frequency Estimation.](https://johansward.github.io/Portfolio/Off_grid)
+3. [Online Estimation of Multiple Harmonic Signals.](https://johansward.github.io/Portfolio/Online_pitch)
+4. [Designing Optimal Sampling Schemes.](https://johansward.github.io/Portfolio/Sampling)
 
 ### Selected projects from my Postdoctoral
-1. Prostate Localization in MRI.
-2. Detecting Alzheimer's in Flow Cytometry.
+1. [Prostate Localization in MRI.](https://johansward.github.io/Portfolio/Prostate_localization)
+2. [Detecting Alzheimer's in Flow Cytometry.](https://johansward.github.io/Portfolio/Alzheimer_detection)
 
 ### Start-up and hobby projects
-1. Detecting Voice Anomalies Using Siamese Networks.
-2. Removing Snow and Rain from Surveillance Footage.
-3. Punctuation-net: Helping me correctly placing commas in Swedish.
+1. [Detecting Voice Anomalies Using Siamese Networks.](https://johansward.github.io/Portfolio/Voice_siamese)
+2. [Removing Snow and Rain from Surveillance Footage.](https://johansward.github.io/Portfolio/Snow_remover)
+3. [Punctuation-net: Helping me correctly placing commas in Swedish.](https://johansward.github.io/Portfolio/Punctuation_net)
 
 
