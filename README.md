@@ -2,6 +2,9 @@
 
 Here you will find selected projects that are a result of my academic research as a Ph.D. and PostDoc in Statistical Signal Process as well as project I have done for my start-ups as well as my private hobby-projects.
 
+* TOC
+{:toc}
+
 ### Selected projects from my Ph.D-studies.
 1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://github.com/JohanSward/Portfolio/blob/master/Estimating%20Periodicities%20in%20Symbolic%20Sequences%20Using%20Sparse%20Modeling/)
 2. Off-grid Fundamental Frequency Estimation.
