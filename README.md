@@ -17,4 +17,4 @@ Here you will find selected projects that are a result of my academic research a
 2. Removing Snow and Rain from Surveillance Footage.
 3. Punctuation-net: Helping me correctly placing commas in Swedish.
 
-|----------------------------------------------------------------------------|
+[a link](https://github.com/JohanSward/Portfolio/blob/master/Estimating%20Periodicities%20in%20Symbolic%20Sequences%20Using%20Sparse%20Modeling/remove_me.txt)
