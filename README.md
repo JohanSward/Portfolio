@@ -16,4 +16,5 @@ Here you will find selected projects that are a result of my academic research a
 1. Detecting Voice Anomalies Using Siamese Networks.
 2. Removing Snow and Rain from Surveillance Footage.
 3. Punctuation-net: Helping me correctly placing commas in Swedish.
+
 |----------------------------------------------------------------------------|
