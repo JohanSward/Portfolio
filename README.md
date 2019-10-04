@@ -7,7 +7,7 @@ Here you will find selected projects that are a result of my academic research a
 {:toc}
 
 ### Ph.D. Thesis.
-1. [Parameter Estimation - In Sparsity We Trust](https://portal.research.lu.se/portal/files/29950771/thesis_Johan_Sward.pdf)
+1. [Parameter Estimation - In Sparsity We Trust.](https://portal.research.lu.se/portal/files/29950771/thesis_Johan_Sward.pdf)
 
 ### Selected projects from my Ph.D-studies.
 1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Symbolic_periodicities)
