@@ -8,7 +8,7 @@ Here you will find selected projects that are a result of my academic research a
 
 
 ### Selected projects from my Ph.D-studies.
-1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Symbolic_periods)
+1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Symbolic_periodicities)
 2. [Off-grid Fundamental Frequency Estimation.](https://johansward.github.io/Portfolio/Off_grid)
 3. [Online Estimation of Multiple Harmonic Signals.](https://johansward.github.io/Portfolio/Online_pitch)
 4. [Designing Optimal Sampling Schemes.](https://johansward.github.io/Portfolio/Sampling)
