@@ -1,1 +1,6 @@
-Hej!
+## Online Estimation of Multiple Harmonic Signals
+If you are interested in reading the full paper you can find it [here](https://github.com/JohanSward/Portfolio/blob/master/Online_pitch/ElvanderSJ17.pdf).
+
+Say that you and your friends are singing a song and recording it with a microphone and on the computer screen you and your friends can follow how your pitch is evolving as you sing. To be able to do this one needs a method that is able to estimate the multiple pitches you and your friends are producing and do it sample by sample (on-line) so that the information shown on the screen is in sync with your singing.
+
+A signal has a pitch structure if it can be expressed as a sum of sinusoids where each frequency is a integer multiple of the fundamental frequency. If the sum has L terms, we say that the pitch has L-1 harmonics or overtones. In our case we have unknown number of pitches, each with an unknown number of harmonics. To make things even more complicated, we also allow for the amplitude of the signal to vary over time. We solve this problem by considering a dictionary of candidate pitches and we solve a sparsity promiting optimization problem to find a small subset of the candidates that form an approximation of the true signal. This optimization problem is solved recursivly as new samples from the recording becomes available. 
