@@ -1,6 +1,6 @@
 ## Off-grid Fundamental Frequency Estimation
 
-The full article can be found [here](https://github.com/JohanSward/Portfolio/edit/master/Off_grid/SwardLJ_17.pdf).
+The full article can be found [here](https://github.com/JohanSward/Portfolio/tree/master/Off_grid/SwardLJ_17.pdf).
 
 Fundamental frequency estimation is important in many applications. For instance, when modelling the human voice, the fundamental frequency (also known as the pitch) is an integral part. Another interesting application is when determining if a ball bearing machinery is at fault. A signal $$y(t)$$ has a pitch structure if it can be written on the form
 $$y(t) = \sum_{\ell=1}^L \alpha_{\ell}\cos(2\pi f \ell t+\phi_{\ell})), \quad t=1,\dots,N$$,
