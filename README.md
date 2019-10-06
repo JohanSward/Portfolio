@@ -7,15 +7,13 @@ Here you will find selected projects that are a result of my academic research a
 ### Ph.D. Thesis.
 1. [Parameter Estimation - In Sparsity We Trust.](https://portal.research.lu.se/portal/files/29950771/thesis_Johan_Sward.pdf)
 
-### Selected projects from my Ph.D-studies.
+### Selected projects from my academic career
 1. [Estimating Periodicities in Symbolic Sequences Using Sparse Modeling.](https://johansward.github.io/Portfolio/Symbolic_periodicities)
 2. [Off-grid Fundamental Frequency Estimation.](https://johansward.github.io/Portfolio/Off_grid)
 3. [Online Estimation of Multiple Harmonic Signals.](https://johansward.github.io/Portfolio/Online_pitch)
 4. [Designing Optimal Sampling Schemes.](https://johansward.github.io/Portfolio/Sampling)
-
-### Selected projects from my Postdoctoral
-1. [Prostate Localization in MRI.](https://johansward.github.io/Portfolio/Prostate_localization)
-2. [Detecting Alzheimer's in Flow Cytometry.](https://johansward.github.io/Portfolio/Alzheimer_detection)
+5. [Prostate Localization in MRI.](https://johansward.github.io/Portfolio/Prostate_localization)
+6. [Detecting Alzheimer's in Flow Cytometry.](https://johansward.github.io/Portfolio/Alzheimer_detection)
 
 ### Start-up and hobby projects
 1. [Detecting Voice Anomalies Using Siamese Networks.](https://johansward.github.io/Portfolio/Voice_siamese)
