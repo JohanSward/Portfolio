@@ -1,8 +1,10 @@
 ## Welcome to Johan Swärd's Portfolio
 
-Here you will find selected projects that are a result of my academic research as a Ph.D. and PostDoc in Statistical Signal Process as well as project I have done for my start-ups as well as my private hobby-projects.
+Here you will find selected projects that are a result of my academic research as a Ph.D. and PostDoc in Statistical Signal Process as well as project I have done for my start-ups and my private hobby-projects.
 
 ![Johan Swärd](/Images/Johan_Sward.jpg)
+
+Here is my [resumé](https://github.com/JohanSward/Portfolio/blob/master/CV_johan_svard.pdf).
 
 ### Ph.D. Thesis.
 1. [Parameter Estimation - In Sparsity We Trust.](https://portal.research.lu.se/portal/files/29950771/thesis_Johan_Sward.pdf)
