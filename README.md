@@ -4,7 +4,7 @@ Here you will find selected projects that are a result of my academic research a
 
 ![Johan Swärd](/Images/Johan_Sward.jpg)
 
-Here is my [resumé](https://github.com/JohanSward/Portfolio/blob/master/CV_johan_svard.pdf).
+Here is my [CV](https://github.com/JohanSward/Portfolio/blob/master/CV_johan_svard.pdf).
 
 ### Ph.D. Thesis.
 1. [Parameter Estimation - In Sparsity We Trust.](https://portal.research.lu.se/portal/files/29950771/thesis_Johan_Sward.pdf)
